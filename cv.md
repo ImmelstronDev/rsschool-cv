@@ -1,14 +1,12 @@
- **rsscholl-cv**
- ---
-
+ 
 # Pavel Demuskov 
 
 ## Contact Information:
 
-**Phone** +375 29 55 37 864
-**E-mail** [Wishandra.afk@gmail.com](Wishandra.afk@gmail.com)
-**GitHub** [ImmelstronDev](github.com/ImmelstronDev)
-**Telegram** [Pavel Demuskov](https://t.me/Immelstron322)
+* **Phone** +375 29 55 37 864
+* **E-mail** [Wishandra.afk@gmail.com](Wishandra.afk@gmail.com)
+* **GitHub** [ImmelstronDev](github.com/ImmelstronDev)
+* **Telegram** [Pavel Demuskov](https://t.me/Immelstron322)
 
 
 ## About Me
@@ -44,5 +42,5 @@ Belarusian National Technical University(Engineer)
 
 ## Languages
 
-Russian - native
-English - A2(B1 in progress)
+* Russian - native
+* English - A2(B1 in progress)
