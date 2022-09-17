@@ -1,1 +1,1 @@
-https://ImmelstronDev.github.io/rsschool-cv/cv
+https://ImmelstronDev.github.io/rsschool-cv/
